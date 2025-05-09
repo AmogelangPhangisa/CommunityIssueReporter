@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35506.116 d17.12
+VisualStudioVersion = 17.12.35506.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommunityIssueReporter", "CommunityIssueReporter\CommunityIssueReporter.csproj", "{5BCAC837-3C9A-4457-A19E-8EE1426D4F02}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CommunityAppSetup", "CommunityAppSetup\CommunityAppSetup.vdproj", "{DA392E12-26DD-40FD-9A76-A75FB36E61C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,8 @@ Global
 		{5BCAC837-3C9A-4457-A19E-8EE1426D4F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BCAC837-3C9A-4457-A19E-8EE1426D4F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BCAC837-3C9A-4457-A19E-8EE1426D4F02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA392E12-26DD-40FD-9A76-A75FB36E61C0}.Debug|Any CPU.ActiveCfg = Debug
+		{DA392E12-26DD-40FD-9A76-A75FB36E61C0}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
