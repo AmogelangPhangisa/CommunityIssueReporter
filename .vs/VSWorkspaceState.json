@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CommunityAppSetup",
+    "\\CommunityIssueReporter"
   ],
-  "PreviewInSolutionExplorer": false
+  "SelectedNode": "\\CommunityIssueReporter\\UI",
+  "PreviewInSolutionExplorer": true
 }

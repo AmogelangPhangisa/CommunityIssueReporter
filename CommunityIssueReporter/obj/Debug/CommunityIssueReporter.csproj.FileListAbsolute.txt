@@ -1,0 +1,9 @@
+C:\Users\Amogelang Phangisa\source\repos\CommunityIssueReporter\CommunityIssueReporter\bin\Debug\CommunityIssueReporter.exe.config
+C:\Users\Amogelang Phangisa\source\repos\CommunityIssueReporter\CommunityIssueReporter\bin\Debug\CommunityIssueReporter.exe
+C:\Users\Amogelang Phangisa\source\repos\CommunityIssueReporter\CommunityIssueReporter\bin\Debug\CommunityIssueReporter.pdb
+C:\Users\Amogelang Phangisa\source\repos\CommunityIssueReporter\CommunityIssueReporter\obj\Debug\CommunityIssueReporter.csproj.AssemblyReference.cache
+C:\Users\Amogelang Phangisa\source\repos\CommunityIssueReporter\CommunityIssueReporter\obj\Debug\CommunityIssueReporter.Properties.Resources.resources
+C:\Users\Amogelang Phangisa\source\repos\CommunityIssueReporter\CommunityIssueReporter\obj\Debug\CommunityIssueReporter.csproj.GenerateResource.cache
+C:\Users\Amogelang Phangisa\source\repos\CommunityIssueReporter\CommunityIssueReporter\obj\Debug\CommunityIssueReporter.csproj.CoreCompileInputs.cache
+C:\Users\Amogelang Phangisa\source\repos\CommunityIssueReporter\CommunityIssueReporter\obj\Debug\CommunityIssueReporter.exe
+C:\Users\Amogelang Phangisa\source\repos\CommunityIssueReporter\CommunityIssueReporter\obj\Debug\CommunityIssueReporter.pdb

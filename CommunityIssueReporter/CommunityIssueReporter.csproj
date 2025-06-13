@@ -47,6 +47,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataStructures\ServiceRequestAVL.cs" />
+    <Compile Include="DataStructures\ServiceRequestBST.cs" />
+    <Compile Include="DataStructures\ServiceRequestGraph.cs" />
+    <Compile Include="DataStructures\ServiceRequestHeap.cs" />
+    <Compile Include="DataStructures\ServiceRequestManager.cs" />
+    <Compile Include="DataStructures\ServiceRequestMST.cs" />
     <Compile Include="Data\DatabaseManager.cs" />
     <Compile Include="Data\EventCache.cs" />
     <Compile Include="Data\EventRepository.cs" />
@@ -75,6 +81,9 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="UI\RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\ServiceRequestStatusForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Utilities\AppColors.cs" />
