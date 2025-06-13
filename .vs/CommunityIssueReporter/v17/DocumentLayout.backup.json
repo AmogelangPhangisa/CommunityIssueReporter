@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Amogelang Phangisa\\source\\repos\\CommunityIssueReporter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5BCAC837-3C9A-4457-A19E-8EE1426D4F02}|CommunityIssueReporter\\CommunityIssueReporter.csproj|C:\\Users\\Amogelang Phangisa\\source\\repos\\CommunityIssueReporter\\communityissuereporter\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5BCAC837-3C9A-4457-A19E-8EE1426D4F02}|CommunityIssueReporter\\CommunityIssueReporter.csproj|c:\\users\\amogelang phangisa\\source\\repos\\communityissuereporter\\communityissuereporter\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BCAC837-3C9A-4457-A19E-8EE1426D4F02}|CommunityIssueReporter\\CommunityIssueReporter.csproj|solutionrelative:communityissuereporter\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BCAC837-3C9A-4457-A19E-8EE1426D4F02}|CommunityIssueReporter\\CommunityIssueReporter.csproj|c:\\users\\amogelang phangisa\\source\\repos\\communityissuereporter\\communityissuereporter\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5BCAC837-3C9A-4457-A19E-8EE1426D4F02}|CommunityIssueReporter\\CommunityIssueReporter.csproj|C:\\Users\\Amogelang Phangisa\\source\\repos\\CommunityIssueReporter\\communityissuereporter\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5BCAC837-3C9A-4457-A19E-8EE1426D4F02}|CommunityIssueReporter\\CommunityIssueReporter.csproj|solutionrelative:communityissuereporter\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "CommunityIssueReporter\\UI\\MainForm.cs",
               "ToolTip": "C:\\Users\\Amogelang Phangisa\\source\\repos\\CommunityIssueReporter\\CommunityIssueReporter\\UI\\MainForm.cs",
               "RelativeToolTip": "CommunityIssueReporter\\UI\\MainForm.cs",
-              "ViewState": "AgIAAIcHAAAAAAAAAAAAwJoHAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAKYHAAAAAAAAAAAwwLwHAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T11:49:49.398Z",
               "EditorCaption": ""
@@ -54,8 +54,7 @@
               "ToolTip": "C:\\Users\\Amogelang Phangisa\\source\\repos\\CommunityIssueReporter\\CommunityIssueReporter\\UI\\MainForm.cs [Design]",
               "RelativeToolTip": "CommunityIssueReporter\\UI\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T11:49:28.763Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-12T11:49:28.763Z"
             },
             {
               "$type": "Document",
